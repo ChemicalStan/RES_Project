@@ -1,6 +1,6 @@
 # Squarespace Robots Txt
 
-Sitemap: http://www.olivialehmann.info/sitemap.xml
+Sitemap: http://www.triciamorrison.com/sitemap.xml
 User-agent: *
 Disallow: /config
 Disallow: /commerce/

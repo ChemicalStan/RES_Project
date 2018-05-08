@@ -94,7 +94,7 @@
         "pageType": 2,
         "website": {
             "id": "57126ba9b09f955a7bac2e8a",
-            "identifier": "morrison-tricia",
+            "identifier": "Tricia-Morrison",
             "websiteType": 1,
             "contentModifiedOn": 1500230311042,
             "cloneable": false,
@@ -117,11 +117,11 @@
                 "5": true,
                 "6": true
             },
-            "socialLogoImageUrl": "img/morrison-tricia.jpeg",
-            "authenticUrl": "http://www.morrisontricia.info",
-            "internalUrl": "http://morrison-tricia.squarespace.com",
-            "baseUrl": "http://www.morrisontricia.info",
-            "primaryDomain": "www.morrisontricia.info",
+            "socialLogoImageUrl": "img/Tricia-Morrison.jpeg",
+            "authenticUrl": "http://www.triciamorrison.com",
+            "internalUrl": "http://Tricia-Morrison.squarespace.com",
+            "baseUrl": "http://www.triciamorrison.com",
+            "primaryDomain": "www.triciamorrison.com",
             "sslSetting": 1,
             "isHstsEnabled": false,
             "socialAccounts": [{
@@ -149,7 +149,7 @@
                 "screenname": "Isicheitricia",
                 "addedOn": 1476291227568,
                 "profileUrl": "https://twitter.com/Isicheitricia",
-                "iconUrl": "img/morrison-tricia.jpeg",
+                "iconUrl": "img/Tricia-Morrison.jpeg",
                 "collectionId": "57fe6a9b5016e1ee1e680c75",
                 "iconEnabled": true,
                 "serviceName": "twitter"
@@ -160,7 +160,7 @@
                 "screenname": "Isicheitricia",
                 "addedOn": 1476313927869,
                 "profileUrl": "http://instagram.com/triciaisichei",
-                "iconUrl": "img/morrison-tricia.jpeg",
+                "iconUrl": "img/Tricia-Morrison.jpeg",
                 "collectionId": "57fec347893fc01d5cc5e0c8",
                 "iconEnabled": true,
                 "serviceName": "instagram"
